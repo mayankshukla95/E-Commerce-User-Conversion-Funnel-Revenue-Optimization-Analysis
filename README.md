@@ -30,41 +30,41 @@ Total Columns: 7
 
 Columns:
 
-event_id
+        1. event_id
 
-user_id
+        2. user_id
 
-event_type
+        3. event_type
 
-event_date
+        4. event_date
 
-product_id
+        5. product_id
 
-amount
+        6. amount
 
-traffic_source
+        7. traffic_source
 
 Event Types:
 
-page_view
+        1. page_view
 
-add_to_cart
+        2. add_to_cart
 
-checkout_start
+        3. checkout_start
 
-payment_info
+        4. payment_info
 
-purchase
+        5. purchase
 
 Traffic Sources:
 
-email
+        1. email
 
-organic
+        2. organic
 
-paid_ads
+        3. paid_ads
 
-social
+        4. social media
 
 🔍 Funnel Definition
 
